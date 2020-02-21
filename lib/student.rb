@@ -16,6 +16,10 @@ class Student
     
     
     
+    SQL 
+    
+    
+    
   end 
 
       
