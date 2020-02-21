@@ -16,10 +16,7 @@ class Student
       CREATE TABLE students (
       
       
-      );
-      
-    
-    
+      )
       SQL 
     
     
